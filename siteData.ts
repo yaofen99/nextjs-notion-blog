@@ -1,17 +1,17 @@
 const siteData = {
-  title: 'Starter Notion blog for Nextjs with Tailwind',
-  author: 'Notion Blog Starter',
-  headerTitle: 'Nextjs Notion Blog Starter',
-  profileUrl: '/nextjs-logo.png',
-  headerDescription: 'Starter Notion blog for Nextjs with Tailwind',
+  title: 'Robin & Cathy',
+  author: 'Robin & Cathy',
+  headerTitle: 'Welcome to our cite',
+  profileUrl: '/profile.png',
+  headerDescription: 'Daily Record',
   footerText: '© All rights reserved',
   language: 'en-us',
   locale: 'en-US',
   ogBanner: 'https://nextjs-notion-blog-starter.vercel.app/preview/1.jpg',
-  github: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter',
-  twitter: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter',
+  github: 'https://github.com/yaofen99',
+  twitter: 'https://x.com/yaofen233',
   websiteUrl: 'https://nextjs-notion-blog-starter.vercel.app',
-  linkedin: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter'
+  linkedin: 'https://www.linkedin.com/in/chenbailong2001/'
 };
 
 export default siteData;
